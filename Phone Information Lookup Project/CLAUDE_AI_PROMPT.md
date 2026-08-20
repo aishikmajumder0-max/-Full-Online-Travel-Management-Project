@@ -1,0 +1,1 @@
+Improve this privacy-safe Phone Information Lookup project. Add better UI validation, a larger standards-based country calling-code dataset, optional carrier metadata only from an authorized API, and stronger local privacy controls. Do not add GPS tracking, covert tracking, spyware, contact access, call logs, or private identity lookup.
